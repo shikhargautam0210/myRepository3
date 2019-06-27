@@ -12081,11 +12081,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shikhargautam\\source\\repos\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
+      "projectUniqueName": "C:\\Users\\shikhargautam\\source\\myRepository3\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
       "projectName": "WebApplication9",
-      "projectPath": "C:\\Users\\shikhargautam\\source\\repos\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
+      "projectPath": "C:\\Users\\shikhargautam\\source\\myRepository3\\WebApplication9\\WebApplication9\\WebApplication9.csproj",
       "packagesPath": "C:\\Users\\shikhargautam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shikhargautam\\source\\repos\\WebApplication9\\WebApplication9\\obj\\",
+      "outputPath": "C:\\Users\\shikhargautam\\source\\myRepository3\\WebApplication9\\WebApplication9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
